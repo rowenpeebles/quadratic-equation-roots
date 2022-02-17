@@ -1,3 +1,6 @@
+/* A program written in C that calculates the roots
+ * of quadratic equations and displays results. */
+
 #include <math.h>
 #include <stdio.h>
 

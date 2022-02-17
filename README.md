@@ -1,2 +1,8 @@
-# quadratic-equation-roots
-This is a program written in C that calculates and displays all roots of a quadratic equation.
+# Quadratic-Equation-Roots
+
+### Calculates the roots of quadratic equations 
+
+#### License -------- Release
+
+[![License](https://img.shields.io/github/license/rowenpeebles/quadratic-equation-roots.svg?style=flat-square)](https://github.com/rowenpeebles/quadratic-equation-roots/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/rowenpeebles/quadratic-equation-roots/all.svg?style=flat-square)](https://github.com/rowenpeebles/quadratic-equation-roots/releases)
